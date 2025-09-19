@@ -1,2 +1,1 @@
-# Uploads
-Yurr
+https://github.com/Chronotoxicity1/Uploads.git
